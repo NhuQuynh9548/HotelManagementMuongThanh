@@ -1,0 +1,72 @@
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.exe.config
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.exe
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.pdb
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersisitenceFramework.dll
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersistenceFramework.Interfaces.dll
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.dll
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersisitenceFramework.xml
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersistenceFramework.Interfaces.xml
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.xml
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.AssemblyReference.cache
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ChiTietDatPhong.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DangKy.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DatPhong.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.InHoaDon.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Login.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Main.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.NhanPhong.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Properties.Resources.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLiDichVu.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLiPhong.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuenMatKhau.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuyDinh.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ThongKe.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ThongTinTaiKhoan.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.GenerateResource.cache
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.CoreCompileInputs.cache
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.Up2Date
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.exe
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.pdb
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLyHoaDon.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLyNhanVien.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.SuDungDichVuVaThanToan.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.GioiThieu.resources
+D:\HK3_2024\HK3_2024\Lập trình C#.Net nâng cao\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DanhGia.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.exe.config
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.exe
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\DAQLKS.pdb
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersisitenceFramework.dll
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersistenceFramework.Interfaces.dll
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.dll
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersisitenceFramework.xml
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EFPersistenceFramework.Interfaces.xml
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.xml
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.AssemblyReference.cache
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ChiTietDatPhong.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DangKy.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DanhGia.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.DatPhong.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.GioiThieu.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.InHoaDon.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Login.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Main.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.NhanPhong.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.Properties.Resources.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLiDichVu.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLyHoaDon.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLyNhanVien.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuanLiPhong.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuenMatKhau.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.QuyDinh.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.SuDungDichVuVaThanToan.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ThongKe.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.ThongTinTaiKhoan.resources
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.GenerateResource.cache
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.CoreCompileInputs.cache
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.csproj.Up2Date
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.exe
+D:\HK1_2025\Phân tích và thiết kế hướng đối tượng\17_CaoNhuQuynh_9405_DoAnQuanLyKhachSan - Copy\17_CaoNhuQuynh_9504_DoAn\Đồ án Quản Lý Khách Sạn\DAQLKS\DAQLKS\obj\Debug\DAQLKS.pdb

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EFPersistenceFramework.Interfaces</name>
+    </assembly>
+    <members>
+        <member name="T:CSP.EFPF.Interfaces.IRepository`1">
+            <summary>
+            Base repository interface for all repositories.
+            </summary>
+            <typeparam name="T">Type of the entity class, which should be managed.</typeparam>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetAll(System.Boolean)">
+            <summary>
+            Returns all entities in the corresponding set.
+            </summary>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Queryable enumeration of entity objects.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetAll(System.Collections.Generic.List{System.String},System.Boolean)">
+            <summary>
+            Returns all entities in the corresponding set.
+            </summary>
+            <param name="includes">List of types, which should be included in the loading process.</param>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Queryable enumeration of entity objects.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetMany(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}},System.Boolean)">
+            <summary>
+            Returns a subset of entities, depending on the assigned expression pattern.
+            </summary>
+            <param name="pattern">LINQ-Expression with the filter criterias.</param>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Queryable subset of entity objects.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetMany(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}},System.Collections.Generic.List{System.String},System.Boolean)">
+            <summary>
+            Returns a subset of entities, depending on the assigned expression pattern.
+            </summary>
+            <param name="pattern">LINQ-Expression with the filter criterias.</param>
+            <param name="includes">List of types, which should be included in the loading process.</param>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Queryable subset of entity objects.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetOne(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}},System.Boolean)">
+            <summary>
+            Returns one entity object, depending on the assigned expression pattern. 
+            If there are more than one entity, matching the pattern, an exception occured.
+            </summary>
+            <param name="pattern">LINQ-Expression with the filter criterias.</param>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Filtered entity object.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetOne(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}},System.Collections.Generic.List{System.String},System.Boolean)">
+            <summary>
+            Returns one entity object, depending on the assigned expression pattern. 
+            If there are more than one entity, matching the pattern, an exception occured.
+            </summary>
+            <param name="pattern">LINQ-Expression with the filter criterias.</param>
+            <param name="includes">List of types, which should be included in the loading process.</param>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <returns>Filtered entity object.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetByKey(System.Object[])">
+            <summary>
+            Returns an entity object, depending on the delivered key values.
+            </summary>
+            <param name="keys">List of key values.</param>
+            <returns>Entity object according to the key.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.GetByKey(System.Boolean,System.Object[])">
+            <summary>
+            Returns an entity object, depending on the delivered key values.
+            </summary>
+            <param name="tracking">Flag for tracking information. If true, all loaded entities would be tracked by the ChangeTracker, else not.</param>
+            <param name="keys">List of key values.</param>
+            <returns>Entity object according to the key.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.Insert(`0)">
+            <summary>
+            Insert an entity object into the context for saving into the database. The object should not be contained in the existing database.
+            </summary>
+            <param name="entity">Object, which should be stored.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.Update(`0)">
+            <summary>
+            Updated an entity object for saving into the database. If the object is not in the context, it would be attached. 
+            Else, the state would changed to 'Modified'. So the Update will be forced.
+            </summary>
+            <param name="entity">Object, which should be updated.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.Delete(`0)">
+            <summary>
+            Deletes an entity object in the database. If the object is not in the context, it would be attached and marked for deletion. 
+            </summary>
+            <param name="entity">Object, which should be deleted.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IRepository`1.DeleteByKey(System.Object[])">
+            <summary>
+            Deletes an entity object in the database by the delivered key values.
+            </summary>
+            <param name="keys">List of key values.</param>
+        </member>
+        <member name="T:CSP.EFPF.Interfaces.IUnitOfWork">
+            <summary>
+            Base interface for all unit of work.
+            A Unit of Work (UoW) is the central manager for all data operation. 
+            </summary>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.BeginTransaction">
+            <summary>
+            Starts a new transaction with internal transaction management. The level is "ReadCommited".
+            </summary>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.BeginTransaction(System.Transactions.IsolationLevel,System.TimeSpan)">
+            <summary>
+            Starts a new transaction with internal transaction management.
+            </summary>
+            <param name="isolationLevel">The isolation level which should be used for the transaction.</param>
+            <param name="timeout">Timeout for the transaction.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.BeginTransaction(System.Transactions.TransactionScope)">
+            <summary>
+            Starts a transaction using a external scope.
+            </summary>
+            <param name="scope">Transaction scope which should be used for the internal transaction control.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.CommitTransaction">
+            <summary>
+            Commits an exisiting transaction. This action saves all tracked changes in the database and closes the transaction.
+            </summary>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.RollbackTransaction">
+            <summary>
+            All action, which are tracked in the transaction, are rolled back.
+            </summary>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.ExecuteSql(System.String,System.Object[])">
+            <summary>
+            Executes a plain sql statement in the database.
+            </summary>
+            <param name="sql">SQL-Statement, which should be executed.</param>
+            <param name="parameters">Parameters, according to the delivered statement.</param>
+            <returns>Number of affected rows.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.SaveChanges">
+            <summary>
+            Saves all tracked changes in the database.
+            </summary>
+            <returns>Number of affected rows.</returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.ReloadEntityFromDatabase(System.Object)">
+            <summary>
+            Reloads the original values of an entity from the database.
+            </summary>
+            <param name="entity">Tracked entity object which values should be reloaded.</param>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.CreateDatabase">
+            <summary>
+            Creates the database.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CSP.EFPF.Interfaces.IUnitOfWork.DeleteDatabase">
+            <summary>
+            Deletes the database.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="E:CSP.EFPF.Interfaces.IUnitOfWork.RollbackExecuted">
+            <summary>
+            Event, which is raised, if the rollback was invoked.
+            </summary>
+        </member>
+        <member name="P:CSP.EFPF.Interfaces.IUnitOfWork.Log">
+            <summary>
+            Action delegate for the database activity log.
+            </summary>
+        </member>
+        <member name="P:CSP.EFPF.Interfaces.IUnitOfWork.DatabaseExists">
+            <summary>
+            Is true, if the database exists already, else it is false.
+            </summary>
+        </member>
+    </members>
+</doc>
